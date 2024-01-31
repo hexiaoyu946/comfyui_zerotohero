@@ -32,29 +32,7 @@ B站个人主页：[分享PS、AI、PR、AE教程](https://space.bilibili.com/37
 
 * 实际应用场景
 
-类目
 
-**演示样例**
-
-AI设计
-
-  
-
-运营海报、品牌延展设计、字体设计、包装设计、插画
-
-  
-
-暂时无法在飞书文档外展示此内容
-
-暂时无法在飞书文档外展示此内容
-
-暂时无法在飞书文档外展示此内容
-
-AI摄影
-
-电商产品、电商服饰、婚纱、汉服、奇幻、儿童
-
-  
 
 ![](https://sli4b6l3vs.feishu.cn/space/api/box/stream/download/asynccode/?code=Yjc4MTcwZjcyMTFiYzc4OWRhZTE5MzM5ZDlhMmZjM2FfQ0hUeDVzQTN5VHpjQkNtR0pLMW1BQjV0U094eFNSNlRfVG9rZW46TkdYMGJLZlRQbzVnZkh4VmJwT2MySlBEbnRkXzE3MDY3MDc5OTI6MTcwNjcxMTU5Ml9WNA)
 
@@ -66,37 +44,14 @@ AI摄影
 
 ![](https://sli4b6l3vs.feishu.cn/space/api/box/stream/download/asynccode/?code=NWMyYWE3NWNhOWU4YmI0MWZjOTNlYjAwNjkxNmY4N2VfZWhleUhkN1pzSlI0OHFhaHp0T3pjaXRBYUVsM3kyQ1FfVG9rZW46RVlOQWJxVEtBb2FUYUJ4NUE4T2NSZld5bnJiXzE3MDY3MDc5OTI6MTcwNjcxMTU5Ml9WNA)
 
-AI绘本
-
-电影短剧分镜、漫画、儿童绘本
-
-  
-
 ![](https://sli4b6l3vs.feishu.cn/space/api/box/stream/download/asynccode/?code=NGM0YWQyMjFjZmEzZjQzOWI0NDRiY2U5MmIzMThlZTRfNzhEbmVPZDNPaFFCV1BicTY3U0Z1b1BBc0RMN2NjYVRfVG9rZW46U2U5Y2JrcW03b1Ztb3d4Vk1pdWN3MTNHbmtoXzE3MDY3MDc5OTI6MTcwNjcxMTU5Ml9WNA)![](https://sli4b6l3vs.feishu.cn/space/api/box/stream/download/asynccode/?code=NTRlYTc3ZjI1ODM3ZDFkNzdkNTlmNTVkYzA0YmVkMzZfbkFGUGFLYk9BZWhxMXBib1BmUHRkUnZyclU2aDJxSFRfVG9rZW46Q3BBWWJDZVU1b2E2ekF4Z29heWN3ZnVYbkdnXzE3MDY3MDc5OTI6MTcwNjcxMTU5Ml9WNA)![](https://sli4b6l3vs.feishu.cn/space/api/box/stream/download/asynccode/?code=YWMzZWEwZDk0YTBlNjRkYTMzNDNlMDQ0OTQ1ZjM1YWVfTWFteGJwZjd3Mnk3WFl0N3EySnBOVTJGdFpoQkZRbWVfVG9rZW46V0wzeWJDV3l2b2dPZWl4bzFXMWNncFE4blNkXzE3MDY3MDc5OTI6MTcwNjcxMTU5Ml9WNA)
 
 ![](https://sli4b6l3vs.feishu.cn/space/api/box/stream/download/asynccode/?code=ODdhYTU0OTgzNjZmODNiMDYyMDcyYWZmODdjNDM2ZDJfTXRLa240WjBRODRzQ0JJSzBXS2xjcVZ5MFpFSXU5eWxfVG9rZW46UVlyemJTNG1wb25ackl4bDExQWNlZzVybkdjXzE3MDY3MDc5OTI6MTcwNjcxMTU5Ml9WNA)![](https://sli4b6l3vs.feishu.cn/space/api/box/stream/download/asynccode/?code=NzY3ZjU0ZDBiMjU4NzdkZGQ3MzQwNDliOTg5MGYzNTBfTVdaWmtJYmNrcFA0M1VOYXROVGQ1QklmQVFscGt1ekFfVG9rZW46U2tNbGIzb0l4bzdaQXN4WWtZeGNXbUptbkdlXzE3MDY3MDc5OTI6MTcwNjcxMTU5Ml9WNA)![](https://sli4b6l3vs.feishu.cn/space/api/box/stream/download/asynccode/?code=ZjBmMWE2YmE4NjBmZWI2ZWFlNGIwNjY2YTAxNzBiMTlfa290eU5PNmM2cWlhTGhLYThXMzQ3ckw1QWNoYXpBS1pfVG9rZW46RklWT2IxQjdUbzNvd254Y2s2OGMxZlRNbkhiXzE3MDY3MDc5OTI6MTcwNjcxMTU5Ml9WNA)
-
-游戏CG
-
-游戏角色原画、游戏场景原画
-
-  
-
-建筑设计
-
-室内设计效果图、建筑设计效果图，景观设计效果图
-
-  
 
 ![](https://sli4b6l3vs.feishu.cn/space/api/box/stream/download/asynccode/?code=OTFlNTgwOGYwY2E1N2NkZjUxOGVjNDZjZDkzNWRjZTBfdWhObXdJZUVLNUFnVjV5Vjk1YjhjZG9KWVV1VzV4Z3JfVG9rZW46QmIzWGJtendIbzhLSGV4TERKMmNqaHIybmNjXzE3MDY3MDc5OTI6MTcwNjcxMTU5Ml9WNA)
 
 ![](https://sli4b6l3vs.feishu.cn/space/api/box/stream/download/asynccode/?code=YmMyMDRkNGI4MTFhNTJmOGI3ZjJjMTA1NjJmNjU4NWNfdUhFT2xEVHFjTk1mOVVKZElxdk5sY2tGNkpzNkFhRGdfVG9rZW46UHVtMmJhQWZJbzlSNlV4N3dMVWNNdVJqbk1oXzE3MDY3MDc5OTI6MTcwNjcxMTU5Ml9WNA)
 
-工业设计
-
-工业设计效果图
-
-  
 
 ## 一、工作流分享
 
