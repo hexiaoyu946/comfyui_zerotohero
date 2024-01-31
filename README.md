@@ -14,9 +14,9 @@
 
 ## 到哪里可以进行学习？
 
-AI生成图像现阶段还存在争议性，我只会在[抖音](https://www.douyin.com/user/MS4wLjABAAAAT3F8KSN4icautpv2aNyMdbFUpAmBkxBzmffNTYBHcmc)更新ComfyUI的软件教程，想学习的哥哥姐姐可以抖音看看我[@何小鱼同学](https://www.douyin.com/user/MS4wLjABAAAAT3F8KSN4icautpv2aNyMdbFUpAmBkxBzmffNTYBHcmc)主页的教程，如果想要文字版的学习资料，我整理的[ComfyUI从小白到高手](https://sli4b6l3vs.feishu.cn/docx/UORRdL8apoS0b3x1CLAc34gJnBe)知识库中也会随时更新ComfyUI的知识要点和新玩法，如果你在学习或者使用ComfyUI的过程中遇到问题，可以直接在知识库的评论区留言，我会在知识库中更新相关内容，也会在评论区给到相应问题的回复。
+AI生成图像现阶段还存在争议性，我只会在[抖音](https://www.douyin.com/user/MS4wLjABAAAAT3F8KSN4icautpv2aNyMdbFUpAmBkxBzmffNTYBHcmc)更新ComfyUI的软件教程，想学习的哥哥姐姐可以抖音看看我[@何小鱼同学](https://www.douyin.com/user/MS4wLjABAAAAT3F8KSN4icautpv2aNyMdbFUpAmBkxBzmffNTYBHcmc)主页的教程，如果想要文字版的学习资料，我整理的[知识库](https://sli4b6l3vs.feishu.cn/docx/UORRdL8apoS0b3x1CLAc34gJnBe)中也会随时更新ComfyUI的知识要点和新玩法，如果你在学习或者使用ComfyUI的过程中遇到问题，可以直接在知识库的评论区留言，我会在知识库中更新相关内容，也会在评论区给到相应问题的回复。
 
-每周六晚上20:00-22:00会在[抖音](https://www.douyin.com/user/MS4wLjABAAAAT3F8KSN4icautpv2aNyMdbFUpAmBkxBzmffNTYBHcmc)直播演示一些工作流的搭建方法，直播搭建的部分工作流会更新在[何小鱼同学的工作流](https://sli4b6l3vs.feishu.cn/docx/DEAqdQR7coK5p3xwRvIc1DHlnNg?from=from_copylink)的表格里，图片直接拖动软件中就可以加载工作流，想一起玩的哥哥姐姐欢迎来直播间交流，当然如果工作日有空的话也会直播的。
+每周六晚上20:00-22:00会在[抖音](https://www.douyin.com/user/MS4wLjABAAAAT3F8KSN4icautpv2aNyMdbFUpAmBkxBzmffNTYBHcmc)直播演示一些工作流的搭建方法，直播搭建的部分工作流会更新在[工作流](https://sli4b6l3vs.feishu.cn/docx/DEAqdQR7coK5p3xwRvIc1DHlnNg?from=from_copylink)的表格里，图片直接拖动软件中就可以加载工作流，想一起玩的哥哥姐姐欢迎来直播间交流，当然如果工作日有空的话也会直播的。
 
 另外如果有老板需要工作流定制，可以向我发送邮件或者直接用社交媒体私信我详聊你的需求，目前AI设计、AI摄影、AI绘本等方向的工作流都可以搭建，具体可以看看下方这些细分类目。演示样例（部分为落地项目）已经附带在下方文档中了，以电商产品换背景的工作流为例，只需要上传产品和参考图，运行后工作流会自动根据你参考图的风格为产品的同样风格的背景。
 
