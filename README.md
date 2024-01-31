@@ -10,11 +10,17 @@
 
 ## 到哪里可以进行学习？
 
-AI生成图像现阶段还存在争议性，我只会在[抖音](https://www.douyin.com/user/MS4wLjABAAAAT3F8KSN4icautpv2aNyMdbFUpAmBkxBzmffNTYBHcmc)更新ComfyUI的软件教程，想学习的哥哥姐姐可以抖音看看我[@何小鱼同学](https://www.douyin.com/user/MS4wLjABAAAAT3F8KSN4icautpv2aNyMdbFUpAmBkxBzmffNTYBHcmc)主页的教程，在我的[ComfyUI从小白到高手](https://sli4b6l3vs.feishu.cn/docx/UORRdL8apoS0b3x1CLAc34gJnBe)知识库中也会随时更新视频中所涉及的知识要点，如果你有想学的一些ComfyUI新玩法，或者在使用ComfyUI的时候遇到问题，可以直接在知识库的评论区留言，我会在知识库中更新相关内容，也会在评论区会给到相应问题的回复。
+AI生成图像现阶段还存在争议性，我只会在[抖音](https://www.douyin.com/user/MS4wLjABAAAAT3F8KSN4icautpv2aNyMdbFUpAmBkxBzmffNTYBHcmc)更新ComfyUI的软件教程，想学习的哥哥姐姐可以抖音看看我[@何小鱼同学](https://www.douyin.com/user/MS4wLjABAAAAT3F8KSN4icautpv2aNyMdbFUpAmBkxBzmffNTYBHcmc)主页的教程，如果想要文字版的学习资料，我整理的[ComfyUI从小白到高手](https://sli4b6l3vs.feishu.cn/docx/UORRdL8apoS0b3x1CLAc34gJnBe)知识库中也会随时更新ComfyUI的知识要点和新玩法，如果你在学习或者使用ComfyUI的过程中遇到问题，可以直接在知识库的评论区留言，我会在知识库中更新相关内容，也会在评论区会给到相应问题的回复。
 
-同时每周六晚上20:00-22:00会在[抖音](https://www.douyin.com/user/MS4wLjABAAAAT3F8KSN4icautpv2aNyMdbFUpAmBkxBzmffNTYBHcmc)直播演示一些工作流的搭建方法，直播搭建的部分工作流会更新在[何小鱼同学的工作流](https://sli4b6l3vs.feishu.cn/docx/DEAqdQR7coK5p3xwRvIc1DHlnNg?from=from_copylink)的表格里，图片直接拖动软件中就可以加载工作流，想一起玩的哥哥姐姐欢迎来直播间交流，当然如果工作日有空的话也会直播的。
+每周六晚上20:00-22:00会在[抖音](https://www.douyin.com/user/MS4wLjABAAAAT3F8KSN4icautpv2aNyMdbFUpAmBkxBzmffNTYBHcmc)直播演示一些工作流的搭建方法，直播搭建的部分工作流会更新在[何小鱼同学的工作流](https://sli4b6l3vs.feishu.cn/docx/DEAqdQR7coK5p3xwRvIc1DHlnNg?from=from_copylink)的表格里，图片直接拖动软件中就可以加载工作流，想一起玩的哥哥姐姐欢迎来直播间交流，当然如果工作日有空的话也会直播的。
 
-另外如果有老板需要工作流定制，可以私信我详聊你的需求，目前AI设计、AI摄影、AI绘本等方向的工作流都可以搭建。
+另外如果有老板需要工作流定制，可以向我发送邮件或者直接用社交媒体私信我详聊你的需求，目前AI设计、AI摄影、AI绘本等方向的工作流都可以搭建，具体可以看看下方这些细分类目。
+* AI设计：运营海报、品牌延展设计、字体设计、包装设计、插画
+* AI摄影：电商产品主图、产品换背景、电商服饰换模特/换衣服、婚纱、汉服、奇幻、儿童
+* AI绘本：电影短剧分镜、漫画、儿童绘本
+* 游戏CG：游戏角色原画、游戏场景原画
+* 建筑设计：室内设计效果图、建筑设计效果图，景观设计效果图
+* 工业设计：工业设计效果图
 
 ## 个人简介
 
