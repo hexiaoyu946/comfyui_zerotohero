@@ -8,19 +8,15 @@ Comfyui是一个采用节点式交互逻辑的Stable diffusion图形用户界面
 
 ## 到哪里可以进行学习？
 
-AI生成图像现阶段还存在争议性，我只会在抖音更新ComfyUI的软件教程，想学习的哥哥姐姐可以抖音看看我@何小鱼同学主页的教程，下方文档也会随时更新视频中所涉及的知识要点。
+AI生成图像现阶段还存在争议性，我只会在抖音更新ComfyUI的软件教程，想学习的哥哥姐姐可以抖音看看我@何小鱼同学主页的教程，知识库中也会随时更新视频中所涉及的知识要点。
 
-同时我会在每周六晚上20:00-22:00直播演示一些工作流的搭建方法，直播搭建的部分工作流会更新在[何小鱼同学的工作流](https://sli4b6l3vs.feishu.cn/docx/DEAqdQR7coK5p3xwRvIc1DHlnNg?from=from_copylink)的表格里，想一起玩的哥哥姐姐欢迎来直播间交流，当然如果工作日有空的话也会直播的。
+同时我会在每周六晚上20:00-22:00直播演示一些工作流的搭建方法，直播搭建的部分工作流会更新在[何小鱼同学的工作流](https://sli4b6l3vs.feishu.cn/docx/DEAqdQR7coK5p3xwRvIc1DHlnNg?from=from_copylink)的表格里，图片直接拖动软件中就可以加载工作流，想一起玩的哥哥姐姐欢迎来直播间交流，当然如果工作日有空的话也会直播的。
 
 另外如果有老板需要工作流定制，可以私信我详聊你的需求，目前AI设计、AI摄影、AI绘本等方向的工作流都可以搭建。
 
 ## 知识库及工作流分享
 
-我会在这个文档中[何小鱼同学的ComfyUI从小白到高手文档](https://sli4b6l3vs.feishu.cn/docx/UORRdL8apoS0b3x1CLAc34gJnBe)持续更新ComfyUI软件学习的知识点，有问题可以在文档的评论区留言我会回复。
-
-同时我会在[何小鱼同学的工作流](https://sli4b6l3vs.feishu.cn/docx/DEAqdQR7coK5p3xwRvIc1DHlnNg?from=from_copylink)这个表格中持续更新我搭建好的工作流，图片直接拖动软件中就可以加载工作流。
-
-如果你有想学的一些ComfyUI新玩法同样也可以在本文档评论区说出你的需求，我会在文档中更新相关内容。
+我会在ComfyUI知识库[何小鱼同学的ComfyUI从小白到高手文档](https://sli4b6l3vs.feishu.cn/docx/UORRdL8apoS0b3x1CLAc34gJnBe)中持续更新ComfyUI软件学习的知识点，如果你有想学的一些ComfyUI新玩法，或者在使用ComfyUI的时候遇到问题，可以在文档的评论区留言，我会在文档中更新相关内容，同时会给到相应问题的回复。
 
 ## 个人简介
 
