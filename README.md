@@ -14,7 +14,7 @@
 
 ## 到哪里可以进行学习？
 
-AI生成图像现阶段还存在争议性，我只会在[抖音](https://www.douyin.com/user/MS4wLjABAAAAT3F8KSN4icautpv2aNyMdbFUpAmBkxBzmffNTYBHcmc)更新ComfyUI的软件教程，想学习的哥哥姐姐可以抖音看看我[@何小鱼同学](https://www.douyin.com/user/MS4wLjABAAAAT3F8KSN4icautpv2aNyMdbFUpAmBkxBzmffNTYBHcmc)主页的教程，如果想要文字版的学习资料，我整理的[ComfyUI从小白到高手](https://sli4b6l3vs.feishu.cn/docx/UORRdL8apoS0b3x1CLAc34gJnBe)知识库中也会随时更新ComfyUI的知识要点和新玩法，如果你在学习或者使用ComfyUI的过程中遇到问题，可以直接在知识库的评论区留言，我会在知识库中更新相关内容，也会在评论区会给到相应问题的回复。
+AI生成图像现阶段还存在争议性，我只会在[抖音](https://www.douyin.com/user/MS4wLjABAAAAT3F8KSN4icautpv2aNyMdbFUpAmBkxBzmffNTYBHcmc)更新ComfyUI的软件教程，想学习的哥哥姐姐可以抖音看看我[@何小鱼同学](https://www.douyin.com/user/MS4wLjABAAAAT3F8KSN4icautpv2aNyMdbFUpAmBkxBzmffNTYBHcmc)主页的教程，如果想要文字版的学习资料，我整理的[ComfyUI从小白到高手](https://sli4b6l3vs.feishu.cn/docx/UORRdL8apoS0b3x1CLAc34gJnBe)知识库中也会随时更新ComfyUI的知识要点和新玩法，如果你在学习或者使用ComfyUI的过程中遇到问题，可以直接在知识库的评论区留言，我会在知识库中更新相关内容，也会在评论区给到相应问题的回复。
 
 每周六晚上20:00-22:00会在[抖音](https://www.douyin.com/user/MS4wLjABAAAAT3F8KSN4icautpv2aNyMdbFUpAmBkxBzmffNTYBHcmc)直播演示一些工作流的搭建方法，直播搭建的部分工作流会更新在[何小鱼同学的工作流](https://sli4b6l3vs.feishu.cn/docx/DEAqdQR7coK5p3xwRvIc1DHlnNg?from=from_copylink)的表格里，图片直接拖动软件中就可以加载工作流，想一起玩的哥哥姐姐欢迎来直播间交流，当然如果工作日有空的话也会直播的。
 
