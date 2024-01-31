@@ -1,8 +1,6 @@
 ## ComfyUI软件简介
 
-[ComfyUI](https://github.com/comfyanonymous/ComfyUI)是一个采用节点式交互逻辑的Stable diffusion图形用户界面（GUI），在灵活性和可玩性上远远超过其他Stable diffusion的图形用户界面，可以用其生成文本、图像、音频、视频、3D模型，但由于硬件技术及大模型训练的条件限制，现阶段主要以图像生成为主。
-
-其应用范围广泛，目前我已知的可应用场景包括AI设计、AI摄影、游戏CG、AI绘本、建筑设计、工业设计 等领域，一般用来辅助产出效果图，演示样例（部分为落地项目）已经附带在下方文档中了。
+[ComfyUI](https://github.com/comfyanonymous/ComfyUI)是一个采用节点式交互逻辑的Stable diffusion图形用户界面（GUI），在灵活性和可玩性上远远超过其他Stable diffusion的图形用户界面，可以用其生成文本、图像、音频、视频、3D模型，但由于硬件技术及大模型训练的条件限制，现阶段主要以图像生成为主。其应用范围广泛，目前我已知的可应用场景包括AI设计、AI摄影、游戏CG、AI绘本、建筑设计、工业设计 等领域，一般用来辅助产出效果图，演示样例（部分为落地项目）已经附带在下方文档中了。
 
 ![](https://sli4b6l3vs.feishu.cn/space/api/box/stream/download/asynccode/?code=NTlmODFiNmFjNDM1ZjA5OWY0NjFiNTY3ZjMwODU3NTVfenRNcThLT0R1VFhhTlliQ25Qd2l1eXBRYUxjcHhKYXpfVG9rZW46S2VnY2JURFRNb1JFQjZ4NW4ydmNRUWF4bmVIXzE3MDY3MDc5OTI6MTcwNjcxMTU5Ml9WNA)
 
