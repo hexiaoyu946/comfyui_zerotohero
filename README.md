@@ -34,15 +34,15 @@ B站个人主页：[分享PS、AI、PR、AE教程](https://space.bilibili.com/37
 
 ## 实际应用场景
 
+![](https://github.com/hexiaoyu946/comfyui_zerotohero/blob/main/image4.png)
+
+![](https://github.com/hexiaoyu946/comfyui_zerotohero/blob/main/image5.png)
+
 ![](https://github.com/hexiaoyu946/comfyui_zerotohero/blob/main/image2.png)
 
 ![](https://github.com/hexiaoyu946/comfyui_zerotohero/blob/main/image3.png)
 
 ![](https://github.com/hexiaoyu946/comfyui_zerotohero/blob/main/image1.png)
-
-![](https://github.com/hexiaoyu946/comfyui_zerotohero/blob/main/image4.png)
-
-![](https://github.com/hexiaoyu946/comfyui_zerotohero/blob/main/image5.png)
 
 ![](https://github.com/hexiaoyu946/comfyui_zerotohero/blob/main/image12.png)
 
