@@ -8,9 +8,7 @@ AI生成图像现阶段还存在争议性，我只会在短视频平台更新Com
 
 **知识库链接：****https://sli4b6l3vs.feishu.cn/docx/UORRdL8apoS0b3x1CLAc34gJnBe**
 
-**个人简介**
-
-**社交媒体主页**
+* 个人简介
 
 自诩是：全网第一位AI设计工作流搭建师
 
@@ -20,6 +18,9 @@ AI生成图像现阶段还存在争议性，我只会在短视频平台更新Com
 
 全平台同名，不定期直播分享AI设计教程，感谢关注～
 
+* 社交媒体主页
+
+
 抖音个人主页：[分享ComfyUI教程及应用场景](https://www.douyin.com/user/MS4wLjABAAAAT3F8KSN4icautpv2aNyMdbFUpAmBkxBzmffNTYBHcmc)
 
 B站个人主页：[分享PS、AI、PR、AE教程](https://space.bilibili.com/371873812)
@@ -28,13 +29,8 @@ B站个人主页：[分享PS、AI、PR、AE教程](https://space.bilibili.com/37
 
 西瓜视频个人主页：[同步抖音高清ComfyUI横屏教程](https://www.ixigua.com/home/2669225149733667?utm_source=xiguastudio)
 
-**个人详细介绍**
 
-"AI版photoshop"概念提出者，人民邮电出版社签约作者、电子工业出版社签约作者、《Photoshop CC 2018基础教程 》图书作者、《illustrator 2020实用教程 》图书作者、《illustator 2022实用教程》图书作者、5年设计经验的野生运营设计师**、**时长5年的资深软件玩家、B站4.5w粉UP主、B站70w+爆款内容创作者、西瓜视频20W+爆款内容创作者、2019年B站坚持365天内容创作行为艺术完成者。
-
-![](https://sli4b6l3vs.feishu.cn/space/api/box/stream/download/asynccode/?code=OTlhNWY0ZWE3YzQ2ZDFlN2E4NDRiNjU4M2UxYmI3YTFfZm5WWkRHZDI5clZwSVR0SjhyTWZGNkFsRUNGOW0xU3NfVG9rZW46Q3VRa2IyN0RQbzJvS0Z4VjRRMGNxNlg0bjBYXzE3MDY3MDc5OTI6MTcwNjcxMTU5Ml9WNA)
-
-实际应用场景
+* 实际应用场景
 
 类目
 
