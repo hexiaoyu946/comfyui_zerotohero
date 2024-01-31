@@ -1,40 +1,31 @@
+## ComfyUI软件简介
+
+Comfyui是一个采用节点式交互逻辑的Stable diffusion图形用户界面（GUI），在灵活性和可玩性上远远超过其他Stable diffusion的图形用户界面，可以用其生成文本、图像、音频、视频、3D模型，但由于硬件技术及大模型训练的条件限制，现阶段主要以图像生成为主。其应用范围广泛，目前我已知的可应用场景包括AI设计、AI摄影、游戏CG、AI绘本、建筑设计、工业设计 等领域，一般用来辅助产出效果图，演示样例（部分为落地项目）已经附带在下方文档中了。
+![](https://sli4b6l3vs.feishu.cn/space/api/box/stream/download/asynccode/?code=NTlmODFiNmFjNDM1ZjA5OWY0NjFiNTY3ZjMwODU3NTVfenRNcThLT0R1VFhhTlliQ25Qd2l1eXBRYUxjcHhKYXpfVG9rZW46S2VnY2JURFRNb1JFQjZ4NW4ydmNRUWF4bmVIXzE3MDY3MDc5OTI6MTcwNjcxMTU5Ml9WNA)
+
 ## 到哪里可以进行学习？
 
-AI生成图像现阶段还存在争议性，我只会在短视频平台更新ComfyUI的软件教程，想学习的哥哥姐姐可以看看我@何小鱼同学主页的教程，下方文档也会随时更新视频中所涉及的知识要点。
+AI生成图像现阶段还存在争议性，我只会在抖音更新ComfyUI的软件教程，想学习的哥哥姐姐可以抖音看看我@何小鱼同学主页的教程，下方文档也会随时更新视频中所涉及的知识要点。同时我会在每周六晚上20:00-22:00直播演示一些工作流的搭建方法，直播搭建的部分工作流会更新在[何小鱼同学的工作流](https://sli4b6l3vs.feishu.cn/docx/DEAqdQR7coK5p3xwRvIc1DHlnNg?from=from_copylink)的表格里，想一起玩的哥哥姐姐欢迎来直播间交流，当然如果工作日有空的话也会直播的。另外如果有老板需要工作流定制，可以私信我详聊你的需求，目前AI设计、AI摄影、AI绘本等方向的工作流都可以搭建。
 
-同时我会在每周六晚上20:00-22:00直播演示一些工作流的搭建方法，直播搭建的部分工作流会更新在工作流的表格里，想一起玩的哥哥姐姐欢迎来直播间交流，当然如果工作日有空的话也会直播的。
+## 知识库及工作流分享
 
-另外如果有老板需要工作流定制，可以私信我详聊你的需求，目前AI设计、AI摄影、AI绘本等方向的工作流都可以搭建。
+[何小鱼同学的ComfyUI入门文档](https://sli4b6l3vs.feishu.cn/docx/UORRdL8apoS0b3x1CLAc34gJnBe)这个文档会持续更新ComfyUI软件学习的知识点，有问题可以在文档的评论区留言我会回复。同时我会在[何小鱼同学的工作流](https://sli4b6l3vs.feishu.cn/docx/DEAqdQR7coK5p3xwRvIc1DHlnNg?from=from_copylink)这个表格中持续更新我搭建好的工作流，图片直接拖动软件中就可以加载工作流。如果你有想学的一些ComfyUI新玩法同样也可以在本文档评论区说出你的需求，我会在文档中更新相关内容。
 
-**知识库链接：****https://sli4b6l3vs.feishu.cn/docx/UORRdL8apoS0b3x1CLAc34gJnBe**
-
-* 个人简介
+## 个人简介
 
 自诩是：全网第一位AI设计工作流搭建师
-
 现在是：一只野生的运营设计师
-
 曾经是：一名资深的软件玩家
-
 全平台同名，不定期直播分享AI设计教程，感谢关注～
 
-* 社交媒体主页
+## 社交媒体主页
 
 抖音个人主页：[分享ComfyUI教程及应用场景](https://www.douyin.com/user/MS4wLjABAAAAT3F8KSN4icautpv2aNyMdbFUpAmBkxBzmffNTYBHcmc)
-
 B站个人主页：[分享PS、AI、PR、AE教程](https://space.bilibili.com/371873812)
-
 小红书个人主页：[分享AI在工作中的应用场景](https://www.xiaohongshu.com/user/profile/5c41893d0000000005039b64?xhsshare=CopyLink&appuid=5c41893d0000000005039b64&apptime=1705247696)
-
 西瓜视频个人主页：[同步抖音高清ComfyUI横屏教程](https://www.ixigua.com/home/2669225149733667?utm_source=xiguastudio)
 
-
-* 工作流分享
-
-[何小鱼同学的工作流](https://sli4b6l3vs.feishu.cn/docx/DEAqdQR7coK5p3xwRvIc1DHlnNg?from=from_copylink)这个会持续更新我搭建好的工作流，图片直接拖动软件中就可以加载工作流。另外如果你有想学的一些ComfyUI新玩法也可以在本文档评论区说出你的需求，我会在研究之后根据情况给到相应反馈。当然难免会有两种可能，一种是我研究明白了，我会做教程分享出来；二是没有研究明白，那我会在本文档的评论区给到回复。
-
-
-* 实际应用场景
+## 实际应用场景
 
 ![](https://sli4b6l3vs.feishu.cn/space/api/box/stream/download/asynccode/?code=Yjc4MTcwZjcyMTFiYzc4OWRhZTE5MzM5ZDlhMmZjM2FfQ0hUeDVzQTN5VHpjQkNtR0pLMW1BQjV0U094eFNSNlRfVG9rZW46TkdYMGJLZlRQbzVnZkh4VmJwT2MySlBEbnRkXzE3MDY3MDc5OTI6MTcwNjcxMTU5Ml9WNA)
 
@@ -57,24 +48,3 @@ B站个人主页：[分享PS、AI、PR、AE教程](https://space.bilibili.com/37
 
 
 
-国风插画工作流
-
-![](https://sli4b6l3vs.feishu.cn/space/api/box/stream/download/asynccode/?code=Zjg1NTg3ZjBkYTc5NGRjNzU4Zjc1YWJiMTI3NTNhZjBfNmFiM2JmMVJpVHowajVNYzNQcUNHcllKZHV2NGR2RnBfVG9rZW46S2JmZGJuTWpGbzdFd3d4b1dtTWNGdFpablVoXzE3MDY3MDc5OTI6MTcwNjcxMTU5Ml9WNA) | ![](https://sli4b6l3vs.feishu.cn/space/api/box/stream/download/asynccode/?code=OWI4ODJiNTJlNDg4NWUzMDI0ZmE3Y2I3MjIwOWQ2ZThfTkhIWjc5YWNoeGZBZWF6NTZMODQzd1dKR1NZYWdHYWtfVG9rZW46TUVkNWJwaVhub05PSVB4MzV1M2NEUEdobjdjXzE3MDY3MDc5OTI6MTcwNjcxMTU5Ml9WNA)
-
-
-春夏秋冬工作流
-
-![](https://sli4b6l3vs.feishu.cn/space/api/box/stream/download/asynccode/?code=YTYyNzZlYmE5YjZkODkxNmViMWM3YTVhYzk3NDI5NThfc1RMTGdtdXJVa1hmWWlpdUowMUt2c0U5VzJNazljYVpfVG9rZW46SW9zRWIyQ3lSb1J2QTN4UTVBS2M0bGVLbm5nXzE3MDY3MDc5OTI6MTcwNjcxMTU5Ml9WNA) | ![](https://sli4b6l3vs.feishu.cn/space/api/box/stream/download/asynccode/?code=NTg4ZThhNmVkNzVhZjMwNDRlMjVkZGU3MGY3MmI4MGJfWkRtRzVvbG4yQzVGb1g4cEtLWnpSaXFsZjk0S2t3NGFfVG9rZW46UDlJY2JzM1Zmb3BDSWR4MHh0RGNDZ3lDbmVFXzE3MDY3MDc5OTI6MTcwNjcxMTU5Ml9WNA)
-
-
-实时人像生成
-
-![](https://sli4b6l3vs.feishu.cn/space/api/box/stream/download/asynccode/?code=ZTU3MDRjNWYwNTA5NzMyYzhiOGMxZjI0N2VhYWFjMGZfOTFIeGhoS05jSU8xWXlPa2FRbzRIN0xRSERHS2M5V0lfVG9rZW46TTVHWWJQempzb2RBUzV4em9HY2N0ME9IbmliXzE3MDY3MDc5OTI6MTcwNjcxMTU5Ml9WNA) | ![](https://sli4b6l3vs.feishu.cn/space/api/box/stream/download/asynccode/?code=ODRkYzRlMDY5MTA0ODUyZjQ3ZmEwNTI1OWJkZjU3MzhfcG90TXk0bWxoVTNUQTRENUN2UzNweTg5bjdFNU1tZDJfVG9rZW46RFNOUGJVM1JvbzNxZEx4emdsWmNCT1BlbmJoXzE3MDY3MDc5OTI6MTcwNjcxMTU5Ml9WNA)
-
-
-实时绘画
-
-![](https://sli4b6l3vs.feishu.cn/space/api/box/stream/download/asynccode/?code=OTY0ZDg3NTRhZTlmYTBhNzIwNWMyOWI0ZjFkZDhlN2JfRzZRckxxRXRYY3Y4ZUdWU1pqb2oxZUZMajNGVE5QN2dfVG9rZW46Q0pTa2JrZHlKbzlHZld4VWU5NGNnbWExbmFjXzE3MDY3MDc5OTI6MTcwNjcxMTU5Ml9WNA) | ![](https://sli4b6l3vs.feishu.cn/space/api/box/stream/download/asynccode/?code=YzVlOGUzN2M5OTZiMTAxYWFhOTRjMDc1NWU5MDg2MzRfNDVUVE9DckpEMHduWWhiYklXdnRkc1VnR0t2Y0diTWVfVG9rZW46TEVXb2JtcHA4bzUxbHF4OGxHUmNaUXFnbkxmXzE3MDY3MDc5OTI6MTcwNjcxMTU5Ml9WNA)
-
-
-![](https://sli4b6l3vs.feishu.cn/space/api/box/stream/download/asynccode/?code=MGQwNmYzNDJmMmY2ZTk1OWFhMDJhNzg0NGUwYTYzNjhfeHdmWFgxY1dFc25MV3U0b0ZEVlBzZUFjMllHaVlKYmtfVG9rZW46QUd6UGJ2dHh2b1VFNnN4MnpkQWNSYUtSblplXzE3MDY3MDc5OTI6MTcwNjcxMTU5Ml9WNA)
