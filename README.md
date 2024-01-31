@@ -2,7 +2,7 @@
 
 [ComfyUI](https://github.com/comfyanonymous/ComfyUI)是一个采用节点式交互逻辑的Stable diffusion图形用户界面（GUI），在灵活性和可玩性上远远超过其他Stable diffusion的图形用户界面，可以用其生成文本、图像、音频、视频、3D模型，但由于硬件技术及大模型训练的条件限制，现阶段主要以图像生成为主。其应用范围广泛，目前我已知的可应用场景包括AI设计、AI摄影、游戏CG、AI绘本、建筑设计、工业设计 等领域，一般用来辅助产出效果图，演示样例（部分为落地项目）已经附带在下方文档中了。
 
-![](https://sli4b6l3vs.feishu.cn/space/api/box/stream/download/asynccode/?code=NTlmODFiNmFjNDM1ZjA5OWY0NjFiNTY3ZjMwODU3NTVfenRNcThLT0R1VFhhTlliQ25Qd2l1eXBRYUxjcHhKYXpfVG9rZW46S2VnY2JURFRNb1JFQjZ4NW4ydmNRUWF4bmVIXzE3MDY3MDc5OTI6MTcwNjcxMTU5Ml9WNA)
+![](https://github.com/hexiaoyu946/comfyui_zerotohero/blob/main/image14.png)
 
 ## 到哪里可以进行学习？
 
@@ -34,23 +34,23 @@ B站个人主页：[分享PS、AI、PR、AE教程](https://space.bilibili.com/37
 
 ## 实际应用场景
 
-![](https://sli4b6l3vs.feishu.cn/space/api/box/stream/download/asynccode/?code=Yjc4MTcwZjcyMTFiYzc4OWRhZTE5MzM5ZDlhMmZjM2FfQ0hUeDVzQTN5VHpjQkNtR0pLMW1BQjV0U094eFNSNlRfVG9rZW46TkdYMGJLZlRQbzVnZkh4VmJwT2MySlBEbnRkXzE3MDY3MDc5OTI6MTcwNjcxMTU5Ml9WNA)
+![](https://github.com/hexiaoyu946/comfyui_zerotohero/blob/main/image2.png)
 
-![](https://sli4b6l3vs.feishu.cn/space/api/box/stream/download/asynccode/?code=MWZkNzQ2MDJlMDY1NjY5MDI0ODFjZGFlYWJhYWVkZGRfZTZlR2dRWnRqRWxBRFZJR1o4Z3FERXlFQlJnSkdsZk5fVG9rZW46TkRUa2JwNEpxb21YYTN4Z3hSQmNxZUFkbjNjXzE3MDY3MDc5OTI6MTcwNjcxMTU5Ml9WNA)
+![](https://github.com/hexiaoyu946/comfyui_zerotohero/blob/main/image3.png)
 
-![](https://sli4b6l3vs.feishu.cn/space/api/box/stream/download/asynccode/?code=ZjlmYmE5OGNhNWY3YjliNzVkMWUzNWM5NGRlMGE1ZDVfUGp0bXBzTXZYUTEyMTZEcXVWUUZyWDVxQ1d3QjR3eXFfVG9rZW46RlZwVmJBYUxNb09WQ1B4TEhkSmNzRVE2bmxnXzE3MDY3MDc5OTI6MTcwNjcxMTU5Ml9WNA)
+![](https://github.com/hexiaoyu946/comfyui_zerotohero/blob/main/image1.png)
 
-![](https://sli4b6l3vs.feishu.cn/space/api/box/stream/download/asynccode/?code=MmIxN2Y4NmIyYTM1ZDYwZjE1M2U5Y2Y5Y2U1OTFkYzFfeGhOcWtrRmQ1NkhxOUVJeXRLcFljemNSQ28zMW5RS1pfVG9rZW46RHhoYWI1VXFqb2tTZkt4UHBjT2N3S0RGbjJkXzE3MDY3MDc5OTI6MTcwNjcxMTU5Ml9WNA)
+![](https://github.com/hexiaoyu946/comfyui_zerotohero/blob/main/image4.png)
 
-![](https://sli4b6l3vs.feishu.cn/space/api/box/stream/download/asynccode/?code=NWMyYWE3NWNhOWU4YmI0MWZjOTNlYjAwNjkxNmY4N2VfZWhleUhkN1pzSlI0OHFhaHp0T3pjaXRBYUVsM3kyQ1FfVG9rZW46RVlOQWJxVEtBb2FUYUJ4NUE4T2NSZld5bnJiXzE3MDY3MDc5OTI6MTcwNjcxMTU5Ml9WNA)
+![](https://github.com/hexiaoyu946/comfyui_zerotohero/blob/main/image5.png)
 
-![](https://sli4b6l3vs.feishu.cn/space/api/box/stream/download/asynccode/?code=NGM0YWQyMjFjZmEzZjQzOWI0NDRiY2U5MmIzMThlZTRfNzhEbmVPZDNPaFFCV1BicTY3U0Z1b1BBc0RMN2NjYVRfVG9rZW46U2U5Y2JrcW03b1Ztb3d4Vk1pdWN3MTNHbmtoXzE3MDY3MDc5OTI6MTcwNjcxMTU5Ml9WNA)![](https://sli4b6l3vs.feishu.cn/space/api/box/stream/download/asynccode/?code=NTRlYTc3ZjI1ODM3ZDFkNzdkNTlmNTVkYzA0YmVkMzZfbkFGUGFLYk9BZWhxMXBib1BmUHRkUnZyclU2aDJxSFRfVG9rZW46Q3BBWWJDZVU1b2E2ekF4Z29heWN3ZnVYbkdnXzE3MDY3MDc5OTI6MTcwNjcxMTU5Ml9WNA)![](https://sli4b6l3vs.feishu.cn/space/api/box/stream/download/asynccode/?code=YWMzZWEwZDk0YTBlNjRkYTMzNDNlMDQ0OTQ1ZjM1YWVfTWFteGJwZjd3Mnk3WFl0N3EySnBOVTJGdFpoQkZRbWVfVG9rZW46V0wzeWJDV3l2b2dPZWl4bzFXMWNncFE4blNkXzE3MDY3MDc5OTI6MTcwNjcxMTU5Ml9WNA)
+![](https://github.com/hexiaoyu946/comfyui_zerotohero/blob/main/image12.png)
 
-![](https://sli4b6l3vs.feishu.cn/space/api/box/stream/download/asynccode/?code=ODdhYTU0OTgzNjZmODNiMDYyMDcyYWZmODdjNDM2ZDJfTXRLa240WjBRODRzQ0JJSzBXS2xjcVZ5MFpFSXU5eWxfVG9rZW46UVlyemJTNG1wb25ackl4bDExQWNlZzVybkdjXzE3MDY3MDc5OTI6MTcwNjcxMTU5Ml9WNA)![](https://sli4b6l3vs.feishu.cn/space/api/box/stream/download/asynccode/?code=NzY3ZjU0ZDBiMjU4NzdkZGQ3MzQwNDliOTg5MGYzNTBfTVdaWmtJYmNrcFA0M1VOYXROVGQ1QklmQVFscGt1ekFfVG9rZW46U2tNbGIzb0l4bzdaQXN4WWtZeGNXbUptbkdlXzE3MDY3MDc5OTI6MTcwNjcxMTU5Ml9WNA)![](https://sli4b6l3vs.feishu.cn/space/api/box/stream/download/asynccode/?code=ZjBmMWE2YmE4NjBmZWI2ZWFlNGIwNjY2YTAxNzBiMTlfa290eU5PNmM2cWlhTGhLYThXMzQ3ckw1QWNoYXpBS1pfVG9rZW46RklWT2IxQjdUbzNvd254Y2s2OGMxZlRNbkhiXzE3MDY3MDc5OTI6MTcwNjcxMTU5Ml9WNA)
+![](https://github.com/hexiaoyu946/comfyui_zerotohero/blob/main/image13.png)
 
-![](https://sli4b6l3vs.feishu.cn/space/api/box/stream/download/asynccode/?code=OTFlNTgwOGYwY2E1N2NkZjUxOGVjNDZjZDkzNWRjZTBfdWhObXdJZUVLNUFnVjV5Vjk1YjhjZG9KWVV1VzV4Z3JfVG9rZW46QmIzWGJtendIbzhLSGV4TERKMmNqaHIybmNjXzE3MDY3MDc5OTI6MTcwNjcxMTU5Ml9WNA)
+![](https://github.com/hexiaoyu946/comfyui_zerotohero/blob/main/image6.png)![](https://github.com/hexiaoyu946/comfyui_zerotohero/blob/main/image7.png)![](https://github.com/hexiaoyu946/comfyui_zerotohero/blob/main/image8.png)![](https://github.com/hexiaoyu946/comfyui_zerotohero/blob/main/image9.png)![](https://github.com/hexiaoyu946/comfyui_zerotohero/blob/main/image10.png)![](https://github.com/hexiaoyu946/comfyui_zerotohero/blob/main/image11.png)
 
-![](https://sli4b6l3vs.feishu.cn/space/api/box/stream/download/asynccode/?code=YmMyMDRkNGI4MTFhNTJmOGI3ZjJjMTA1NjJmNjU4NWNfdUhFT2xEVHFjTk1mOVVKZElxdk5sY2tGNkpzNkFhRGdfVG9rZW46UHVtMmJhQWZJbzlSNlV4N3dMVWNNdVJqbk1oXzE3MDY3MDc5OTI6MTcwNjcxMTU5Ml9WNA)
+
 
 
 
