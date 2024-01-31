@@ -8,6 +8,8 @@
 
 ![](https://github.com/hexiaoyu946/comfyui_zerotohero/blob/main/image14.png)
 
+
+
 ## 到哪里可以进行学习？
 
 AI生成图像现阶段还存在争议性，我只会在[抖音](https://www.douyin.com/user/MS4wLjABAAAAT3F8KSN4icautpv2aNyMdbFUpAmBkxBzmffNTYBHcmc)更新ComfyUI的软件教程，想学习的哥哥姐姐可以抖音看看我[@何小鱼同学](https://www.douyin.com/user/MS4wLjABAAAAT3F8KSN4icautpv2aNyMdbFUpAmBkxBzmffNTYBHcmc)主页的教程，如果想要文字版的学习资料，我整理的[ComfyUI从小白到高手](https://sli4b6l3vs.feishu.cn/docx/UORRdL8apoS0b3x1CLAc34gJnBe)知识库中也会随时更新ComfyUI的知识要点和新玩法，如果你在学习或者使用ComfyUI的过程中遇到问题，可以直接在知识库的评论区留言，我会在知识库中更新相关内容，也会在评论区会给到相应问题的回复。
@@ -29,6 +31,7 @@ AI生成图像现阶段还存在争议性，我只会在[抖音](https://www.dou
 * 工业设计：工业设计效果图
 
 
+
 ## 个人简介
 
 自诩是：全网第一位AI设计工作流搭建师
@@ -39,6 +42,8 @@ AI生成图像现阶段还存在争议性，我只会在[抖音](https://www.dou
 
 全平台同名，不定期直播分享AI设计教程，感谢关注～
 
+
+
 ## 社交媒体主页
 
 抖音个人主页：[分享ComfyUI教程及应用场景](https://www.douyin.com/user/MS4wLjABAAAAT3F8KSN4icautpv2aNyMdbFUpAmBkxBzmffNTYBHcmc)
@@ -48,6 +53,8 @@ B站个人主页：[分享PS、AI、PR、AE教程](https://space.bilibili.com/37
 小红书个人主页：[分享AI在工作中的应用场景](https://www.xiaohongshu.com/user/profile/5c41893d0000000005039b64?xhsshare=CopyLink&appuid=5c41893d0000000005039b64&apptime=1705247696)
 
 西瓜视频个人主页：[同步抖音高清ComfyUI横屏教程](https://www.ixigua.com/home/2669225149733667?utm_source=xiguastudio)
+
+
 
 ## 实际应用场景
 
