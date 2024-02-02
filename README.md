@@ -34,27 +34,27 @@ AI生成图像现阶段还存在争议性，我只会在[抖音](https://www.dou
 
 
 
-## 个人简介
+## 个人简介及社交媒体
 
-* 自诩是：全网第一位AI设计工作流搭建师
-
-* 现在是：一只野生的运营设计师
-
-* 曾经是：一名资深的软件玩家
-
-* 全平台同名，不定期直播分享AI设计教程，感谢关注～
+个人简介 | 社交媒体主页 | 
+| --- | --- | 
+* 自诩是：全网第一位AI设计工作流搭建师 | * 抖音个人主页：[分享ComfyUI教程及应用场景](https://www.douyin.com/user/MS4wLjABAAAAT3F8KSN4icautpv2aNyMdbFUpAmBkxBzmffNTYBHcmc)
+* 现在是：一只野生的运营设计师 | * B站个人主页：[分享PS、AI、PR、AE教程](https://space.bilibili.com/371873812)
+* 现在是：一只野生的运营设计师 | * 小红书个人主页：[分享AI在工作中的应用场景](https://www.xiaohongshu.com/user/profile/5c41893d0000000005039b64?xhsshare=CopyLink&appuid=5c41893d0000000005039b64&apptime=1705247696)
+* 曾经是：一名资深的软件玩家 | * 西瓜视频个人主页：[同步抖音高清ComfyUI横屏教程](https://www.ixigua.com/home/2669225149733667?utm_source=xiguastudio)
+* 全平台同名，不定期直播分享AI设计教程，感谢关注～ | 
 
 
 
 ## 社交媒体主页
 
-* 抖音个人主页：[分享ComfyUI教程及应用场景](https://www.douyin.com/user/MS4wLjABAAAAT3F8KSN4icautpv2aNyMdbFUpAmBkxBzmffNTYBHcmc)
 
-* B站个人主页：[分享PS、AI、PR、AE教程](https://space.bilibili.com/371873812)
 
-* 小红书个人主页：[分享AI在工作中的应用场景](https://www.xiaohongshu.com/user/profile/5c41893d0000000005039b64?xhsshare=CopyLink&appuid=5c41893d0000000005039b64&apptime=1705247696)
 
-* 西瓜视频个人主页：[同步抖音高清ComfyUI横屏教程](https://www.ixigua.com/home/2669225149733667?utm_source=xiguastudio)
+
+
+
+
 
 
 
