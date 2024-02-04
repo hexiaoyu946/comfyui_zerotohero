@@ -53,9 +53,9 @@ AI生成图像现阶段还存在争议性，我只会在[抖音](https://www.dou
 * 抖音个人主页：[分享ComfyUI教程及应用场景](https://www.douyin.com/user/MS4wLjABAAAAT3F8KSN4icautpv2aNyMdbFUpAmBkxBzmffNTYBHcmc)
   
 * B站个人主页：[分享PS、AI、PR、AE教程](https://space.bilibili.com/371873812)
-* 
+  
 * 小红书个人主页：[分享AI在工作中的应用场景](https://www.xiaohongshu.com/user/profile/5c41893d0000000005039b64?xhsshare=CopyLink&appuid=5c41893d0000000005039b64&apptime=1705247696)
-* 
+  
 * 西瓜视频个人主页：[同步抖音高清ComfyUI横屏教程](https://www.ixigua.com/home/2669225149733667?utm_source=xiguastudio)
 
 
