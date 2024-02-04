@@ -14,7 +14,7 @@
 
 ## 到哪里可以进行学习？
 
-AI生成图像现阶段还存在争议性，我只会在[抖音](https://www.douyin.com/user/MS4wLjABAAAAT3F8KSN4icautpv2aNyMdbFUpAmBkxBzmffNTYBHcmc)更新ComfyUI的软件教程，想学习的哥哥姐姐可以抖音看看我[@何小鱼同学](https://www.douyin.com/user/MS4wLjABAAAAT3F8KSN4icautpv2aNyMdbFUpAmBkxBzmffNTYBHcmc)主页的教程，如果想要文字版的学习资料，我整理的[知识库](https://sli4b6l3vs.feishu.cn/docx/UORRdL8apoS0b3x1CLAc34gJnBe)中也会随时更新ComfyUI的知识要点和新玩法，如果你在学习或者使用ComfyUI的过程中遇到问题，可以直接在知识库的评论区留言，我会在知识库中更新相关内容，也会在评论区给到相应问题的回复。
+AI生成图像现阶段还存在争议性，我只会在[抖音](https://www.douyin.com/user/MS4wLjABAAAAT3F8KSN4icautpv2aNyMdbFUpAmBkxBzmffNTYBHcmc)更新ComfyUI的软件教程，想学习的哥哥姐姐可以抖音看看我[@何小鱼同学](https://www.douyin.com/user/MS4wLjABAAAAT3F8KSN4icautpv2aNyMdbFUpAmBkxBzmffNTYBHcmc)主页的教程，如果想要文字版的学习资料，我整理的[知识库](https://sli4b6l3vs.feishu.cn/docx/UORRdL8apoS0b3x1CLAc34gJnBe)中也会随时更新ComfyUI的知识要点和新玩法。
 
 每周六晚上20:00-22:00会在[抖音](https://www.douyin.com/user/MS4wLjABAAAAT3F8KSN4icautpv2aNyMdbFUpAmBkxBzmffNTYBHcmc)直播演示一些工作流的搭建方法，直播搭建的部分工作流会更新在[工作流](https://sli4b6l3vs.feishu.cn/docx/DEAqdQR7coK5p3xwRvIc1DHlnNg?from=from_copylink)的表格里，图片直接拖动软件中就可以加载工作流，想一起玩的哥哥姐姐欢迎来直播间交流，当然如果工作日有空的话也会直播的。
 
@@ -35,6 +35,7 @@ AI生成图像现阶段还存在争议性，我只会在[抖音](https://www.dou
 
 
 ## 个人简介
+“ComfyUI工作流搭建师”概念提出者、"AI版photoshop"概念提出者、人民邮电出版社签约作者、电子工业出版社签约作者、《Photoshop CC 2018基础教程 》图书作者、《illustrator 2020实用教程 》图书作者、《illustator 2022实用教程》图书作者、5年设计经验的野生运营设计师、时长5年的资深软件玩家、B站4.5w粉UP主、B站70w+爆款内容创作者、西瓜视频20W+爆款内容创作者、2019年B站坚持365天内容创作行为艺术完成者。全平台同名[@何小鱼同学](https://www.douyin.com/user/MS4wLjABAAAAT3F8KSN4icautpv2aNyMdbFUpAmBkxBzmffNTYBHcmc)，不定期直播分享AI设计教程，感谢关注～ 
 
 * 自诩是：全网第一位AI设计工作流搭建师
   
@@ -44,7 +45,7 @@ AI生成图像现阶段还存在争议性，我只会在[抖音](https://www.dou
   
 * 曾经是：一名资深的软件玩家
   
-全平台同名，不定期直播分享AI设计教程，感谢关注～ 
+
 
 
 
