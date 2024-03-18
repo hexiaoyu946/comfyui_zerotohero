@@ -6,7 +6,7 @@
 
 * 知识库链接：https://sli4b6l3vs.feishu.cn/docx/UORRdL8apoS0b3x1CLAc34gJnBe
   
-* 工作流分享链接：https://sli4b6l3vs.feishu.cn/docx/DEAqdQR7coK5p3xwRvIc1DHlnNg?from=from_copylink
+* 工作流分享链接：https://sli4b6l3vs.feishu.cn/docx/DEAqdQR7coK5p3xwRvIc1DHlnNg?from=from_copylink  
 
 ![](https://github.com/hexiaoyu946/comfyui_zerotohero/blob/main/image14.png)
 
